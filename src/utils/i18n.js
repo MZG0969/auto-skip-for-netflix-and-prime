@@ -72,7 +72,7 @@ export const i18nMap = {
   pt_BR: {
     skip_intro: "Pular abertura",
     next_epi: "A seguir",
-    skip_recap: "Pular resumo",
+    skip_recap: "Pular o resumo",
     skip_ads: "Pular",
   },
   de_DE: {
